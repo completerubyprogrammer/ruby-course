@@ -11,5 +11,7 @@ The code can be found as follows
 |project5|Code for Section 6 - Working with Files|
 |project6|Code for Section 7 - Object Oriented Programming|
 |project7|Code for Section 8 - Object Mapping|
+|project8|Code for Section 9 - Web Scraping Automation|
+|project9|Code for Section 10 - Data Engineering with Ruby|
 |codealongs|Code for all the Codealong exercises|
 |optional|Code for the optional videos|
